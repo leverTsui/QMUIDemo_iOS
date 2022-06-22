@@ -1,7 +1,7 @@
 //
 //  QDNormalButtonViewController.m
 //  qmuidemo
-//
+//  @huazai QMUIButton 示例
 //  Created by QMUI Team on 16/10/12.
 //  Copyright (c) 2016年 QMUI Team. All rights reserved.
 //

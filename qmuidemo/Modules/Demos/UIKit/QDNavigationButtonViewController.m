@@ -1,7 +1,7 @@
 //
 //  QDNavigationButtonViewController.m
 //  qmuidemo
-//
+//  @huazai UIBarButtonItem 示例
 //  Created by QMUI Team on 2018/04/17.
 //  Copyright © 2018年 QMUI Team. All rights reserved.
 //
