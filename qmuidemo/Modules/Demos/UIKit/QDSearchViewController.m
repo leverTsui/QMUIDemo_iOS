@@ -1,7 +1,7 @@
 //
 //  QDSearchViewController.m
 //  qmuidemo
-//
+//  @huazai QDSearchViewController 示例
 //  Created by QMUI Team on 16/5/25.
 //  Copyright © 2016年 QMUI Team. All rights reserved.
 //

@@ -1,7 +1,7 @@
 //
 //  QDSearchBarViewController.m
 //  qmuidemo
-//
+//  @huazai searchBar 示例
 //  Created by MoLice on 2020/7/7.
 //  Copyright © 2020 QMUI Team. All rights reserved.
 //

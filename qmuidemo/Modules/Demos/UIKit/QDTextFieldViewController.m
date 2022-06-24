@@ -1,7 +1,7 @@
 //
 //  QDTextFieldViewController.m
 //  qmui
-//
+//  @huazai QMUITextField 示例
 //  Created by QMUI Team on 14-8-6.
 //  Copyright (c) 2014年 QMUI Team. All rights reserved.
 //

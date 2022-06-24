@@ -1,7 +1,7 @@
 //
 //  QDOrientationViewController.m
 //  qmuidemo
-//
+//  @huazai 屏幕旋转 示例
 //  Created by QMUI Team on 2017/6/23.
 //  Copyright © 2017年 QMUI Team. All rights reserved.
 //

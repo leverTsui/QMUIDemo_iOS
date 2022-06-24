@@ -1,7 +1,7 @@
 //
 //  QDBlurEffectViewController.m
 //  qmuidemo
-//
+//  @huazai 模糊效果 示例
 //  Created by molice on 2021/11/26.
 //  Copyright © 2021 QMUI Team. All rights reserved.
 //

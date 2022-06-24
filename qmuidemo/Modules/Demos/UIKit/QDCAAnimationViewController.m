@@ -1,7 +1,7 @@
 //
 //  QDCAAnimationViewController.m
 //  qmuidemo
-//
+//  @huazai CALayer 动画示例
 //  Created by QMUI Team on 2018/7/31.
 //  Copyright © 2018年 QMUI Team. All rights reserved.
 //
