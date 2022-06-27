@@ -1,7 +1,7 @@
 //
 //  QDMoreOperationViewController.m
 //  qmuidemo
-//
+//  @huazai 更多操作面板 示例
 //  Created by QMUI Team on 15/5/18.
 //  Copyright (c) 2015年 QMUI Team. All rights reserved.
 //

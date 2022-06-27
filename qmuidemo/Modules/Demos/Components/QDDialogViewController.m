@@ -1,7 +1,7 @@
 //
 //  QDDialogViewController.m
 //  qmuidemo
-//
+//  @huazai 弹窗 示例
 //  Created by QMUI Team on 16/7/20.
 //  Copyright © 2016年 QMUI Team. All rights reserved.
 //

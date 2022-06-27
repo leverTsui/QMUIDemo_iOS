@@ -1,7 +1,7 @@
 //
 //  QDModalPresentationViewController.m
 //  qmuidemo
-//
+//  @huazai 在当前页面弹出模态视图 示例
 //  Created by QMUI Team on 16/7/20.
 //  Copyright © 2016年 QMUI Team. All rights reserved.
 //
