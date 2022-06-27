@@ -1,7 +1,7 @@
 //
 //  QDToastListViewController.m
 //  qmuidemo
-//
+//  @huazai toast提示 示例
 //  Created by QMUI Team on 2016/12/13.
 //  Copyright © 2016年 QMUI Team. All rights reserved.
 //

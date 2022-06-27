@@ -1,7 +1,7 @@
 //
 //  QDDropdownNotificationViewController.m
 //  qmuidemo
-//
+//  @huazai 通知栏 示例
 //  Created by molice on 2021/10/27.
 //  Copyright © 2021 QMUI Team. All rights reserved.
 //

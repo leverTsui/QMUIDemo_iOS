@@ -1,7 +1,7 @@
 //
 //  QDImagePreviewViewController1.m
 //  qmuidemo
-//
+//  @huazai 相册 示例
 //  Created by QMUI Team on 2016/12/6.
 //  Copyright © 2016年 QMUI Team. All rights reserved.
 //

@@ -1,7 +1,7 @@
 //
 //  QDPieProgressViewController.m
 //  qmuidemo
-//
+//  @huazai 饼状图 示例
 //  Created by QMUI Team on 15/9/8.
 //  Copyright (c) 2015年 QMUI Team. All rights reserved.
 //

@@ -1,7 +1,7 @@
 //
 //  QDStaticTableViewController.m
 //  qmuidemo
-//
+//  @huazai 静态tableView 示例
 //  Created by QMUI Team on 15/5/3.
 //  Copyright (c) 2015年 QMUI Team. All rights reserved.
 //
